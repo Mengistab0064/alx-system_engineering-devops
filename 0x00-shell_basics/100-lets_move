@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [[:upper:]]* /tmp/n 
+ls [A-Z]* /tmp/n 
